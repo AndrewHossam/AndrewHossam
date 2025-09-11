@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrew H. Isaac  
 
-<!--
-**AndrewHossam/AndrewHossam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Senior Android Engineer | Team Lead | Scrum Master**  
+🚀 Building scalable mobile experiences with a strong focus on architecture, reliability, and performance.  
+🌍 Based in Egypt | Currently working at [Careem (by Uber)](https://www.careem.com/).  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- **Languages**: Kotlin (primary), Java  
+- **Android**: Jetpack Compose, MVVM, MVI, Clean Architecture  
+- **Quality**: Multi-layer testing (unit, UI, e2e), CI/CD (Bitrise, CircleCI)  
+- **Realtime & Backend**: Coroutines, RxJava, Socket.IO, Node.js  
+- **Ecosystem**: Firebase, Google Services, Huawei HMS, Maps SDKs  
+
+---
+
+## 📫 Connect with Me  
+<!-- - 🌐 [Portfolio Website](http://andrewhossam.com)   -->
+- 💼 [LinkedIn](https://linkedin.com/in/andrewhossam)  
+- 🖥 [GitHub](https://github.com/YOUR_USERNAME)  
+
+---
+
+⚡ *I build Android apps that balance **scalability, reliability, and design excellence**. Always open to collaboration and leadership opportunities.*  
