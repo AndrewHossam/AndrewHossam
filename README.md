@@ -21,5 +21,3 @@
 - 🖥 [GitHub](https://github.com/YOUR_USERNAME)  
 
 ---
-
-⚡ *I build Android apps that balance **scalability, reliability, and design excellence**. Always open to collaboration and leadership opportunities.*  
