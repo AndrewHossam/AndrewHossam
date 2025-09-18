@@ -18,6 +18,6 @@
 ## 📫 Connect with Me  
 <!-- - 🌐 [Portfolio Website](http://andrewhossam.com)   -->
 - 💼 [LinkedIn](https://linkedin.com/in/andrewhossam)  
-- 🖥 [GitHub](https://github.com/YOUR_USERNAME)  
+- 📭 [Email](me@andrewhossam.com)  
 
 ---
